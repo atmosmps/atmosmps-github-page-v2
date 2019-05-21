@@ -5,24 +5,24 @@ slug = "about"
 
 <center>"I think you know what the problem is just as well as I do." HAL 9000</center>
 
-## Olá
+## Hi!
 
-Meu nome é **Atmos Maciel**.
+My name is **Atmos Maciel**.
 
-## Sobre mim
+## About Me
 
-Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Impacto Maker e da Heptum. Trabalho, atualmente, como Backend Developer. "Flertante" com DevOps e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias emergentes, ciência e inovação.
+I am a Database Administrator at Grupo Ceuma and Co-founder / CTO of Impacto Maker. I have a bachelors degree in Computer Science by Pitágoras College, Technician in programming of Digital Games by UEMANET, member of the community PHP Maranhão and other communities of Technology of the State of Maranhão. I currently work as DBA and Full Stack Developer using mainly PHP and Python. "Flirting" with DevOps, Machine Learning, Data Science, and Development of Digital Games for Education. Passionate about Free and open-source software (FOSS), web technologies, science and innovation.
 
-Também sou viciado em café e arranho no violão de vez em quando. Gosto do cubo mágico e acredito que um dia vou conseguir jogar xadrez e poker.
+I'm also addicted to coffee and I scratch the guitar every now and then. I believe that one day I will be able to play chess and poker.
 
-### Apresentações
+### Presentations
 
-Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a> ou no meu <a target="_blank" href="https://github.com/atmosmps">Github</a>.
+All of my presentations are available on my <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a> or on my <a target="_blank" href="https://github.com/atmosmps">Github</a>.
 
-### Projetos
+### Projects
 
-Se meus projetos não estiverem descritos em algum lugar neste site, estarão no meu <a target="_blank" href="https://github.com/atmosmps">Github</a> ou <a target="_blank" href="https://gitlab.com/atmosmps">Gitlab</a>. :)
+If my projects are not described elsewhere on this site, they will be in my <a target="_blank" href="https://github.com/atmosmps">Github</a> or <a target="_blank" href="https://gitlab.com/atmosmps">Gitlab</a>. :)
 
 --------------------------------------
 
-Até logo!
+See you later!
