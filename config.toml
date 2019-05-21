@@ -1,5 +1,5 @@
-baseurl = "http://www.example.com"
-title = "johndoe"
+baseurl = "https://atmosmps.github.io"
+title = "Atmos Maciel"
 
 theme = "hugo-coder"
 
@@ -13,15 +13,15 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "atmosmaciel"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Atmos Maciel"
+    description = "I think you know what the problem is just as well as I do."
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
-    avatarurl = "images/avatar.jpg"
-    footercontent = "Enter a text here."
+    info = "Full Stack Developer"
+    avatarurl = "images/avatar.png"
+    footercontent = "I think you know what the problem is just as well as I do."
 
     dateformat = "January 2, 2006"
 
@@ -51,27 +51,27 @@ disqusShortname = "yourdiscussshortname"
     name = "Github"
     icon = "fab fa-github"
     weight = 1
-    url = "https://github.com/johndoe/"
+    url = "https://github.com/atmosmps/"
 [[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab"
     weight = 2
-    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 3
-    url = "https://twitter.com/johndoe/"
+    url = "https://gitlab.com/atmosmps/"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
     weight = 4
-    url = "https://www.linkedin.com/in/johndoe/"
+    url = "https://www.linkedin.com/in/atmosmps/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 3
+    url = "https://twitter.com/atmosmps/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://medium.com/@atmosmps"
 
 
 [languages]
@@ -88,27 +88,21 @@ disqusShortname = "yourdiscussshortname"
         weight = 2
         url = "/posts/"
 
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/projects/"
-
-        [[languages.en.menu.main]]
-        name = "Contact me"
-        weight = 5
-        url = "/contact/"
-
+        # [[languages.en.menu.main]]
+        # name = "Projects"
+        # weight = 3
+        # url = "/projects/"
 
     [languages.pt-br]
         languagename = "Português"
-        title = "João Ninguém"
+        title = "Atmos Maciel"
 
         [languages.pt-br.params]
-            author = "João Ninguém"
-            info = "Full Stack DevOps e Mágico"
-            description = "Sítio pessoal de João Ninguém"
+            author = "Atmos Maciel"
+            info = "Desenvolvedor Full Stack"
+            description = "I think you know what the problem is just as well as I do."
             keywords = "blog,desenvolvedor,pessoal"
-            footercontent = "Coloque algum texto aqui."
+            footercontent = "I think you know what the problem is just as well as I do."
 
         [languages.pt-br.menu]
 
@@ -122,12 +116,7 @@ disqusShortname = "yourdiscussshortname"
             weight = 2
             url = "/pt-br/posts/"
 
-            [[languages.pt-br.menu.main]]
-            name = "Projetos"
-            weight = 3
-            url = "/pt-br/projects/"
-
-            [[languages.pt-br.menu.main]]
-            name = "Contato"
-            weight = 5
-            url = "/pt-br/contact/"
+            # [[languages.pt-br.menu.main]]
+            # name = "Projetos"
+            # weight = 3
+            # url = "/pt-br/projects/"
