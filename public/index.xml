@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Atmos Maciel</title>
+    <link>https://atmosmps.github.io/</link>
+    <description>Recent content on Atmos Maciel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://atmosmps.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://atmosmps.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmosmps.github.io/about/</guid>
+      <description>&amp;ldquo;I think you know what the problem is just as well as I do.&amp;rdquo; HAL 9000
+Hi! My name is Atmos Maciel.
+About Me I am a Database Administrator at Grupo Ceuma and Co-founder / CTO of Impacto Maker. I have a bachelors degree in Computer Science by Pitágoras College, Technician in programming of Digital Games by UEMANET, member of the community PHP Maranhão and other communities of Technology of the State of Maranhão.</description>
+    </item>
+    
+  </channel>
+</rss>
