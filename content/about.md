@@ -1,29 +1,28 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+<center>"I think you know what the problem is just as well as I do." HAL 9000</center>
 
+## Olá
 
-It makes use of a variety of open source projects including:
+Meu nome é **Atmos Maciel**.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+## Sobre mim
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+Graduado em Ciência da Computação, presidente da comunidade PHP Maranhão e Co-founder da Impacto Maker e da Heptum. Trabalho, atualmente, como Backend Developer. "Flertante" com DevOps e programação de jogos digitais. Apaixonado pelo Free and open-source software (FOSS), tecnologias emergentes, ciência e inovação.
 
-## Setup
+Também sou viciado em café e arranho no violão de vez em quando. Gosto do cubo mágico e acredito que um dia vou conseguir jogar xadrez e poker.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+### Apresentações
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Todas as minhas apresentações estão disponíveis no meu <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a> ou no meu <a target="_blank" href="https://github.com/atmosmps">Github</a>.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+### Projetos
 
-Thanks for reading!
+Se meus projetos não estiverem descritos em algum lugar neste site, estarão no meu <a target="_blank" href="https://github.com/atmosmps">Github</a> ou <a target="_blank" href="https://gitlab.com/atmosmps">Gitlab</a>. :)
+
+--------------------------------------
+
+Até logo!
