@@ -1,0 +1,5 @@
+/* custom color scheme-dark CSS*/
+body.colorscheme-dark pre code {
+    background-color: inherit;
+    color: black;
+}
