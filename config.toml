@@ -1,15 +1,13 @@
 baseurl = "https://atmosmps.github.io/"
 title = "Atmos Maciel"
-
 theme = "hugo-coder"
-
 languagecode = "en"
 defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
 
-pygmentsstyle = "b2"
+pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -33,14 +31,21 @@ disqusShortname = "atmosmaciel"
 
     rtl = false
 
-    # Use inverted colors
-    inverted = false
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorscheme = "dark"
 
     # Series see also post count
     maxSeeAlsoItems = 5
 
     # Custom CSS
     custom_css = []
+    
+    # Custom JS
+    custom_js = []
 
 [taxonomies]
   category = "categories"
@@ -73,25 +78,31 @@ disqusShortname = "atmosmaciel"
     weight = 5
     url = "https://medium.com/@atmosmps"
 
-
 [languages]
     [languages.en]
         languagename = "English"
 
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/about/"
+        [languages.en.menu]
 
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2
-        url = "/posts/"
+            [[languages.en.menu.main]]
+            name = "About"
+            weight = 1
+            url = "about/"
 
-        # [[languages.en.menu.main]]
-        # name = "Projects"
-        # weight = 3
-        # url = "/projects/"
+            [[languages.en.menu.main]]
+            name = "Blog"
+            weight = 2
+            url = "posts/"
+
+            #[[languages.en.menu.main]]
+            #name = "Projects"
+            #weight = 3
+            #url = "projects/"
+
+            #[[languages.en.menu.main]]
+            #name = "Contact me"
+            #weight = 5
+            #url = "contact/"
 
     [languages.pt-br]
         languagename = "Português"
@@ -109,14 +120,19 @@ disqusShortname = "atmosmaciel"
             [[languages.pt-br.menu.main]]
             name = "Sobre"
             weight = 1
-            url = "/pt-br/about/"
+            url = "about/"
 
             [[languages.pt-br.menu.main]]
             name = "Blog"
             weight = 2
-            url = "/pt-br/posts/"
+            url = "posts/"
 
-            # [[languages.pt-br.menu.main]]
-            # name = "Projetos"
-            # weight = 3
-            # url = "/pt-br/projects/"
+            #[[languages.pt-br.menu.main]]
+            #name = "Projetos"
+            #weight = 3
+            #url = "projects/"
+
+            #[[languages.pt-br.menu.main]]
+            #name = "Contato"
+            #weight = 5
+            #url = "contact/"
