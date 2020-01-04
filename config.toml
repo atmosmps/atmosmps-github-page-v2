@@ -1,4 +1,4 @@
-baseurl = "https://atmosmps.github.io"
+baseurl = "https://atmosmps.github.io/"
 title = "Atmos Maciel"
 
 theme = "hugo-coder"
