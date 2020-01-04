@@ -1,7 +1,7 @@
 baseurl = "https://atmosmps.github.io/"
 title = "Atmos Maciel"
 theme = "hugo-coder"
-languagecode = "en"
+languagecode = "pt-br"
 defaultcontentlanguage = "pt-br"
 
 paginate = 20
@@ -77,6 +77,12 @@ disqusShortname = "atmosmaciel"
     icon = "fab fa-medium"
     weight = 5
     url = "https://medium.com/@atmosmps"
+
+[[params.social]]
+    name = "Dev"
+    icon = "fab fa-dev"
+    weight = 5
+    url = "https://dev.to/atmosmps"
 
 [languages]
     [languages.en]
