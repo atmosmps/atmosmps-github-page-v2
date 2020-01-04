@@ -1,28 +1,22 @@
 +++
-title = "About Me"
+title = "Sobre mim"
 slug = "about"
 +++
 
-<center>"I think you know what the problem is just as well as I do." HAL 9000</center>
+> "I think you know what the problem is just as well as I do." HAL 9000
 
-## Hi!
+### Olá
 
-My name is **Atmos Maciel**.
+Meu nome é **Atmos Maciel**.
 
-## About Me
+## Sobre mim
 
-I am a Database Administrator at Grupo Ceuma and Co-founder / CTO of Impacto Maker. I have a bachelors degree in Computer Science by Pitágoras College, Technician in programming of Digital Games by UEMANET, member of the community PHP Maranhão and other communities of Technology of the State of Maranhão. I currently work as DBA and Full Stack Developer using mainly PHP and Python. "Flirting" with DevOps, Machine Learning, Data Science, and Development of Digital Games for Education. Passionate about Free and open-source software (FOSS), web technologies, science and innovation.
+Sou Administrador de Banco de Dados no Grupo Ceuma, Co-founder/CTO da Impacto Maker e Full Stack Developer. Bacharel em Ciência da Computação pela Faculdade Pitágoras, técnico em programação de Jogos Digitais pela UEMANET, membro da comunidade PHP Maranhão e outras comunidades de Tecnologia do Estado. "Flertante" com DevOps, Machine Learning, Data Science e desenvolvimento de Jogos Digitais. Apaixonado pelo Free and open-source software (FOSS) e sempre estudante de tecnologias web, ciência e inovação.
 
-I'm also addicted to coffee and I scratch the guitar every now and then. I believe that one day I will be able to play chess and poker.
+Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker.
 
-### Presentations
+### Apresentações
 
-All of my presentations are available on my <a target="_blank" href="https://speakerdeck.com/atmosmaciel">Speakerdeck</a> or on my <a target="_blank" href="https://github.com/atmosmps">Github</a>.
+Todas as minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmaciel) ou no meu [Github](https://github.com/atmosmps).
 
-### Projects
-
-If my projects are not described elsewhere on this site, they will be in my <a target="_blank" href="https://github.com/atmosmps">Github</a> or <a target="_blank" href="https://gitlab.com/atmosmps">Gitlab</a>. :)
-
---------------------------------------
-
-See you later!
+Até logo!
