@@ -3,3 +3,29 @@ body.colorscheme-dark pre code {
     background-color: inherit;
     color: black;
 }
+
+/* Custom Links Color */
+body.colorscheme-dark .navigation a:hover {
+    color: purple;
+}
+
+body.colorscheme-dark .content .centered .about ul li a:hover,
+body.colorscheme-dark .content .centered .about ul li a:focus {
+    color: purple;
+}
+
+body.colorscheme-dark a {
+    color: blueviolet;
+}
+
+body.colorscheme-dark a:hover {
+    color: purple;
+}
+
+body.colorscheme-dark .footer a {
+    color: blueviolet;
+}
+
+body.colorscheme-dark .footer a:hover {
+    color: purple;
+}
