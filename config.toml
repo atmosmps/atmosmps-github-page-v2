@@ -2,7 +2,7 @@ baseurl = "https://atmosmps.github.io/"
 title = "Atmos Maciel"
 theme = "hugo-coder"
 languagecode = "en"
-defaultcontentlanguage = "en"
+defaultcontentlanguage = "pt-br"
 
 paginate = 20
 canonifyurls = true
@@ -16,7 +16,7 @@ disqusShortname = "atmosmaciel"
 [params]
     author = "Atmos Maciel"
     description = "I think you know what the problem is just as well as I do."
-    keywords = "blog,developer,personal"
+    keywords = "technology, developer, science, books, music, astronomy, runnig, fight"
     info = "Full Stack Developer"
     avatarurl = "images/avatar.png"
     footercontent = "I think you know what the problem is just as well as I do."
