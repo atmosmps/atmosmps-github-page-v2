@@ -13,6 +13,10 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "atmosmaciel"
 
+# Enabling this option to allow rendering of HTML within Markdown files.
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
     author = "Atmos Maciel"
     description = "I think you know what the problem is just as well as I do."
