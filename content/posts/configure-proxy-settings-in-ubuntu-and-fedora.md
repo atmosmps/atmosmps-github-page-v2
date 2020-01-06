@@ -3,7 +3,7 @@ date = "2020-01-05"
 title = "Definindo configurações de proxy no Ubuntu e Fedora"
 description = "Coisas simples e chatas que precisam ser feitas de vez em quando..."
 tags = ["personal", "me-to-me"]
-categories = ["scripts"]
+categories = ["configs"]
 
 #images = ["/images/N90.jpg"]
 #math = true
