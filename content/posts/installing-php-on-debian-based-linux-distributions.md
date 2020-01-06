@@ -3,7 +3,7 @@ date = "2020-01-06"
 title = "Instalando o PHP em distribuições Linux baseadas em Debian"
 description = "Coisas simples e chatas que precisam ser feitas de vez em quando..."
 tags = ["personal", "me-to-me", "php"]
-categories = ["scripts", "php"]
+categories = ["configs", "php"]
 
 #images = ["/images/N90.jpg"]
 #math = true
