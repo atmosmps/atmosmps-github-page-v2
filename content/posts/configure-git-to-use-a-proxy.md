@@ -1,6 +1,6 @@
 +++
 date = "2020-01-06"
-title = "Configure Git to use a proxy"
+title = "Configurando o git para usá-lo com proxy"
 description = "Coisas simples e chatas que precisam ser feitas de vez em quando..."
 tags = ["personal", "me-to-me", "git"]
 categories = ["configs", "git"]
