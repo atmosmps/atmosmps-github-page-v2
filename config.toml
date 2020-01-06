@@ -21,7 +21,7 @@ unsafe = true
     author = "Atmos Maciel"
     description = "I think you know what the problem is just as well as I do."
     keywords = "technology, developer, science, books, music, astronomy, runnig, fight"
-    info = "Full Stack Developer"
+    info = "Developer"
     avatarurl = "images/avatar.png"
     footercontent = "I think you know what the problem is just as well as I do."
 
@@ -120,9 +120,9 @@ unsafe = true
 
         [languages.pt-br.params]
             author = "Atmos Maciel"
-            info = "Desenvolvedor Full Stack"
+            info = "Desenvolvedor"
             description = "I think you know what the problem is just as well as I do."
-            keywords = "blog,desenvolvedor,pessoal"
+            keywords = "technology, developer, science, books, music, astronomy, runnig, fight"
             footercontent = "I think you know what the problem is just as well as I do."
 
         [languages.pt-br.menu]
