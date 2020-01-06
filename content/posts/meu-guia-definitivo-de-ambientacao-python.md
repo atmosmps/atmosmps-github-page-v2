@@ -1,6 +1,6 @@
 +++
 date = "2020-01-06"
-title = "Meu guia definitivo ambientacao em python"
+title = "Meu guia definitivo ambientação em python"
 description = "Coisas simples e chatas que precisam ser feitas de vez em quando..."
 tags = ["personal", "me-to-me", "python"]
 categories = ["configs", "python"]
