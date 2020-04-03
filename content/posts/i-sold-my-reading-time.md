@@ -10,7 +10,7 @@ categories = ["blog"]
 #series = ["Theme", "Hugo"]
 +++
 
-Estou terminando de ser o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
+Estou terminando de ler o livro sobre o maldito gênio desgraçado e fodah que está fazendo coisas do car*lho no mundo, Elon Musk. Postei uma foto do livro no historie do instagram enquanto eu lia, e um amigo me respondeu da seguinte maneiras:
 
 > "Tá com tempo né?"
 
