@@ -24,7 +24,7 @@ Para contextualizar, é a primeira vez que isso acontece na minha empresa. Os fu
 
 ### O mundo é remoto... Agora
 
-Com a pandemia, muitas empresas que já são remotas a muito tempo ou nasceram remotas estão disponibilizando conteúdos valiosíssimos sobre este tipo de cultura de trabalho. Alguns dos que li, seguem abaixo:
+Com a pandemia, muitas empresas que já são remotas há muito tempo ou nasceram remotas estão disponibilizando conteúdos valiosíssimos sobre este tipo de cultura de trabalho. Alguns dos que li, seguem abaixo:
 
 #### Gitlab
 
