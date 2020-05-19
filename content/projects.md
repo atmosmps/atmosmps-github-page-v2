@@ -3,21 +3,19 @@ title = "Projetos"
 slug = "projects"
 +++
 
-### Projetos de software
+## Projetos de software
 
 *Coming soon...*
 
-#### Laravel Marketplace App
+### Laravel Marketplace App
 
 *Status: WIP*
 
-#### DIT Ceuma
+### DIT Ceuma
 
 https://github.com/ditceuma-mark-team
 
-### Projetos científicos
-
-## LEVI
+### LEVI
 
 [https://github.com/levi-ufma](https://github.com/levi-ufma)
 
