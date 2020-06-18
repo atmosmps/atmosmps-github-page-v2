@@ -7,9 +7,9 @@ slug = "projects"
 
 *Coming soon...*
 
-### Laravel Marketplace App
-
 *Status: WIP*
+
+*Coming soon...*
 
 ### DIT Ceuma
 
