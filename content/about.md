@@ -17,7 +17,7 @@ Também sou viciado em café e arranho no violão de vez em quando. Eu acredito 
 
 ### Image
 
-[![Atmos Maciel](http://en.gravatar.com/atmosmps)](http://en.gravatar.com/atmosmps "Atmos Maciel")
+[![Atmos Maciel](http://2.gravatar.com/avatar/28b2b0aa5e69438a0856a13a44b28c20)](http://en.gravatar.com/atmosmps "Atmos Maciel")
 
 ### Apresentações
 
