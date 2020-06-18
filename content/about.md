@@ -15,6 +15,10 @@ Sou Administrador de Banco de Dados no Grupo Ceuma, Co-founder/CTO da Impacto Ma
 
 Também sou viciado em café e arranho no violão de vez em quando. Eu acredito que um dia vou conseguir jogar xadrez e poker.
 
+### Image
+
+[![Atmos Maciel](http://en.gravatar.com/atmosmps)](http://en.gravatar.com/atmosmps "Atmos Maciel")
+
 ### Apresentações
 
 Todas as minhas apresentações estão disponíveis no meu [Speakerdeck](https://speakerdeck.com/atmosmaciel) ou no meu [Github](https://github.com/atmosmps).
